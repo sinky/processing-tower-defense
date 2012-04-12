@@ -169,3 +169,18 @@ a.section.active:hover { color: #2259a5;}
 
 #help .bomb {color: rgb(100,120,140);}
 #help .nuke {color: rgb(255,70,30);}
+
+
+#by {
+  float: right;
+  line-height: 32px;
+}
+
+.box {
+  width: 250px;
+  float: left;
+}
+
+.wrapper {
+  overflow: auto;
+}
